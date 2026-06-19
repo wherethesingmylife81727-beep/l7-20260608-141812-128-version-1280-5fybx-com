@@ -1,0 +1,6 @@
+{
+  "source_css_size": 22421,
+  "generated_movie_count": 2000,
+  "generated_category_count": 10,
+  "cover_rule": "cover = ((movie_index - 1) % 150) + 1 .jpg"
+}
